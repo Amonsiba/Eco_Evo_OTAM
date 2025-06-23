@@ -1,0 +1,97 @@
+﻿Well,Letter ,Column ,Strain ,Rep1,Phage,Antibiotic,Cond
+A1,A,1,water,na,na,na,na
+A2,A,2,water,na,na,na,na
+A3,A,3,water,na,na,na,na
+A4,A,4,water,na,na,na,na
+A5,A,5,water,na,na,na,na
+A6,A,6,water,na,na,na,na
+A7,A,7,water,na,na,na,na
+A8,A,8,water,na,na,na,na
+A9,A,9,water,na,na,na,na
+A10,A,10,water,na,na,na,na
+A11,A,11,water,na,na,na,na
+A12,A,12,water,na,na,na,na
+B1,B,1,water,na,na,na,na
+B2,B,2,media,rep1,sm,saline,Blank
+B3,B,3,Lipton23,rep1,sm,saline,Bacteria Control
+B4,B,4,Lipton23,rep1,sm,DMSO,DMSO Control
+B5,B,5,Lipton23,rep1,sm,MEM,MEM
+B6,B,6,Lipton23,rep1,sm,SXT,SXT
+B7,B,7,Lipton23,rep1,cocktail,saline,Cocktail
+B8,B,8,Lipton23,rep1,cocktail,MEM,Cocktail+MEM
+B9,B,9,Lipton23,rep1,cocktail,SXT,Cocktail+SXT
+B10,B,10,Lipton23,rep1,sm,MEM,Alternating_MEM+PC
+B11,B,11,Lipton23,rep1,sm,SXT,Alternating_SXT_PC
+B12,B,12,water,na,na,na,na
+C1,C,1,water,na,na,na,na
+C2,C,2,media,rep1,sm,saline,Blank
+C3,C,3,Lipton23,rep1,sm,saline,Bacteria Control
+C4,C,4,Lipton23,rep1,sm,DMSO,DMSO Control
+C5,C,5,Lipton23,rep1,sm,MEM,MEM
+C6,C,6,Lipton23,rep1,sm,SXT,SXT
+C7,C,7,Lipton23,rep1,cocktail,saline,Cocktail
+C8,C,8,Lipton23,rep1,cocktail,MEM,Cocktail+MEM
+C9,C,9,Lipton23,rep1,cocktail,SXT,Cocktail+SXT
+C10,C,10,Lipton23,rep1,sm,MEM,Alternating_MEM+PC
+C11,C,11,Lipton23,rep1,sm,SXT,Alternating_SXT_PC
+C12,C,12,water,na,na,na,na
+D1,D,1,water,na,na,na,na
+D2,D,2,media,rep2,sm,saline,Blank
+D3,D,3,Lipton23,rep2,sm,saline,Bacteria Control
+D4,D,4,Lipton23,rep2,sm,DMSO,DMSO Control
+D5,D,5,Lipton23,rep2,sm,MEM,MEM
+D6,D,6,Lipton23,rep2,sm,SXT,SXT
+D7,D,7,Lipton23,rep2,cocktail,saline,Cocktail
+D8,D,8,Lipton23,rep2,cocktail,MEM,Cocktail+MEM
+D9,D,9,Lipton23,rep2,cocktail,SXT,Cocktail+SXT
+D10,D,10,Lipton23,rep2,sm,MEM,Alternating_MEM+PC
+D11,D,11,Lipton23,rep2,sm,SXT,Alternating_SXT_PC
+D12,D,12,water,na,na,na,na
+E1,E,1,water,na,na,na,na
+E2,E,2,media,rep2,sm,saline,Lysate Control
+E3,E,3,Lipton23,rep2,sm,saline,Bacteria Control
+E4,E,4,Lipton23,rep2,sm,DMSO,DMSO Control
+E5,E,5,Lipton23,rep2,sm,MEM,MEM
+E6,E,6,Lipton23,rep2,sm,SXT,SXT
+E7,E,7,Lipton23,rep2,cocktail,saline,Cocktail
+E8,E,8,Lipton23,rep2,cocktail,MEM,Cocktail+MEM
+E9,E,9,Lipton23,rep2,cocktail,SXT,Cocktail+SXT
+E10,E,10,Lipton23,rep2,sm,MEM,Alternating_MEM+PC
+E11,E,11,Lipton23,rep2,sm,SXT,Alternating_SXT_PC
+E12,E,12,water,na,na,na,na
+F1,F,1,water,na,na,na,na
+F2,F,2,media,rep3,sm,saline,Lysate Control
+F3,F,3,Lipton23,rep3,sm,saline,Bacteria Control
+F4,F,4,Lipton23,rep3,sm,DMSO,DMSO Control
+F5,F,5,Lipton23,rep3,sm,MEM,MEM
+F6,F,6,Lipton23,rep3,sm,SXT,SXT
+F7,F,7,Lipton23,rep3,cocktail,saline,Cocktail
+F8,F,8,Lipton23,rep3,cocktail,MEM,Cocktail+MEM
+F9,F,9,Lipton23,rep3,cocktail,SXT,Cocktail+SXT
+F10,F,10,Lipton23,rep3,sm,MEM,Alternating_MEM+PC
+F11,F,11,Lipton23,rep3,sm,SXT,Alternating_SXT_PC
+F12,F,12,water,na,na,na,na
+G1,G,1,water,na,na,na,na
+G2,G,2,media,rep3,sm,saline,Lysate Control
+G3,G,3,Lipton23,rep3,sm,saline,Bacteria Control
+G4,G,4,Lipton23,rep3,sm,DMSO,DMSO Control
+G5,G,5,Lipton23,rep3,sm,MEM,MEM
+G6,G,6,Lipton23,rep3,sm,SXT,SXT
+G7,G,7,Lipton23,rep3,cocktail,saline,Cocktail
+G8,G,8,Lipton23,rep3,cocktail,MEM,Cocktail+MEM
+G9,G,9,Lipton23,rep3,cocktail,SXT,Cocktail+SXT
+G10,G,10,Lipton23,rep3,sm,MEM,Alternating_MEM+PC
+G11,G,11,Lipton23,rep3,sm,SXT,Alternating_SXT_PC
+G12,G,12,water,na,na,na,na
+H1,H,1,water,na,na,na,na
+H2,H,2,water,na,na,na,na
+H3,H,3,water,na,na,na,na
+H4,H,4,water,na,na,na,na
+H5,H,5,water,na,na,na,na
+H6,H,6,water,na,na,na,na
+H7,H,7,water,na,na,na,na
+H8,H,8,water,na,na,na,na
+H9,H,9,water,na,na,na,na
+H10,H,10,water,na,na,na,na
+H11,H,11,water,na,na,na,na
+H12,H,12,water,na,na,na,na
